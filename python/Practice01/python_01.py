@@ -15,3 +15,5 @@ is_adult = age>= 3
 print("우리집"+ animal + "의 이름은" + name + "입니다")
 print(name + "는" + str(age) + "살이고" + hobby + "를 매우 좋아합니다")
 print(name + "는 어른일까요? " + str(is_adult))
+
+print("어제보다 한걸음더 나아가자")
